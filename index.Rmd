@@ -11,9 +11,18 @@ mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 ---
 
-## Slide 1
-Levels of Measurement
-=====================
+## Levels of Measurement
+Nominal
+=======
+
+Ordinal
+=======
+
+Interval
+========
+
+Ratio
+=====
 
 
 --- .class #id 
