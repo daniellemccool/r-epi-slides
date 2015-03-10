@@ -9,7 +9,7 @@ hitheme     : tomorrow      #
 widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
----{class: class1, id: slide1, bg: blue}
+---{class: class1, id: slide1, bg: fffaf0}
 
 ## Levels of Measurement
 
