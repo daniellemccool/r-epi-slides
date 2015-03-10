@@ -9,10 +9,12 @@ hitheme     : tomorrow      #
 widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
----{class : class1,
+---{
+    class : class1,
     id    : slide1,
     bg    : fffaf0,
-    tpl   : slide_layout_1}
+    tpl   : slide_layout_1
+}
 
 ## Levels of Measurement
 
