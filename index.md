@@ -16,17 +16,15 @@ knit        : slidify::knit2slides
     sex, status, smoking_Ever, HER2_status
 
 2. ### Ordinal
-    Histopathological differentiation grade (1 = well, 2 = moderately, 3 = poorly)
-    Cancer stage
+    Histopathological differentiation grade (1 = well, 2 = moderately, 3 = poorly), Cancer stage
 
 3. ### Interval
-    Temperature (&deg;C), 
+    Temperature (&deg;C), Date
 
 4. ### Ratio
-=====
+    BMI, tumor size, duration of adjuvant treatment, number of relatives with cancer
 
-
---- .class #id 
+--- .class1 #slide1
 
 ## Slide 2
 
