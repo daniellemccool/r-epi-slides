@@ -9,7 +9,7 @@ hitheme     : tomorrow      #
 widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
----
+---{class: class1, id: slide1, bg: blue}
 
 ## Levels of Measurement
 
@@ -25,7 +25,7 @@ knit        : slidify::knit2slides
 4. ### Ratio
     BMI, tumor size, duration of adjuvant treatment, number of relatives with cancer
 
---- .class1 #slide1
+--- .class1 #slide2
 
 ## Slide 2
 
