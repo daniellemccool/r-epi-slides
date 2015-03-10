@@ -12,16 +12,14 @@ knit        : slidify::knit2slides
 ---
 
 ## Levels of Measurement
-Nominal
-=======
-sex, status, smoking_Ever, HER2_status
+1. ### Nominal
+    sex, status, smoking_Ever, HER2_status
 
-Ordinal
-=======
-Histopathological grade (1 = well differentiated, 2 = moderately differentiated, 3 = poorly/un-differentiated)
-Cancer stage
+2. ### Ordinal
+    Histopathological grade (1 = well differentiated, 2 = moderately differentiated, 3 = poorly/un-differentiated)
+    Cancer stage
 
-Interval
+3. Interval
 ========
 
 Ratio
