@@ -12,6 +12,7 @@ knit        : slidify::knit2slides
 ---
 
 ## Levels of Measurement
+
 1. ### Nominal
     sex, status, smoking_Ever, HER2_status
 
